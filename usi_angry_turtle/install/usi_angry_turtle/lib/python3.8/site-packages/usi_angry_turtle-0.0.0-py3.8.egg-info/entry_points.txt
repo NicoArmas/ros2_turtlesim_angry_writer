@@ -1,0 +1,3 @@
+[console_scripts]
+move2goal_node = usi_angry_turtle.move2goal_node:main
+

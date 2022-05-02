@@ -1,0 +1,43 @@
+[0.739s] Invoking command in '/home/usi/dev_ws/src/usi_angry_turtle': PYTHONPATH=/home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/usi_angry_turtle build --build-base /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build install --prefix /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle --record /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/install.log --single-version-externally-managed
+[0.965s] running egg_info
+[0.966s] creating build/usi_angry_turtle/usi_angry_turtle.egg-info
+[0.966s] writing build/usi_angry_turtle/usi_angry_turtle.egg-info/PKG-INFO
+[0.967s] writing dependency_links to build/usi_angry_turtle/usi_angry_turtle.egg-info/dependency_links.txt
+[0.967s] writing entry points to build/usi_angry_turtle/usi_angry_turtle.egg-info/entry_points.txt
+[0.967s] writing requirements to build/usi_angry_turtle/usi_angry_turtle.egg-info/requires.txt
+[0.967s] writing top-level names to build/usi_angry_turtle/usi_angry_turtle.egg-info/top_level.txt
+[0.977s] writing manifest file 'build/usi_angry_turtle/usi_angry_turtle.egg-info/SOURCES.txt'
+[1.011s] reading manifest file 'build/usi_angry_turtle/usi_angry_turtle.egg-info/SOURCES.txt'
+[1.012s] writing manifest file 'build/usi_angry_turtle/usi_angry_turtle.egg-info/SOURCES.txt'
+[1.012s] running build
+[1.012s] running build_py
+[1.013s] creating /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build
+[1.013s] creating /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib
+[1.013s] creating /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle
+[1.013s] copying usi_angry_turtle/__init__.py -> /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle
+[1.014s] copying usi_angry_turtle/move2goal_node_working.py -> /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle
+[1.014s] copying usi_angry_turtle/pid.py -> /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle
+[1.014s] copying usi_angry_turtle/move2goal_node.py -> /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle
+[1.014s] running install
+[1.015s] running install_lib
+[1.016s] creating /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle
+[1.016s] copying /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle/__init__.py -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle
+[1.017s] copying /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle/move2goal_node_working.py -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle
+[1.017s] copying /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle/pid.py -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle
+[1.017s] copying /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build/lib/usi_angry_turtle/move2goal_node.py -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle
+[1.017s] byte-compiling /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle/__init__.py to __init__.cpython-38.pyc
+[1.018s] byte-compiling /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle/move2goal_node_working.py to move2goal_node_working.cpython-38.pyc
+[1.020s] byte-compiling /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle/pid.py to pid.cpython-38.pyc
+[1.020s] byte-compiling /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle/move2goal_node.py to move2goal_node.cpython-38.pyc
+[1.021s] running install_data
+[1.022s] creating /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/share/ament_index
+[1.022s] creating /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/share/ament_index/resource_index
+[1.022s] creating /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/share/ament_index/resource_index/packages
+[1.022s] copying resource/usi_angry_turtle -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/share/ament_index/resource_index/packages
+[1.022s] copying package.xml -> /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/share/usi_angry_turtle
+[1.023s] running install_egg_info
+[1.024s] Copying build/usi_angry_turtle/usi_angry_turtle.egg-info to /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages/usi_angry_turtle-0.0.0-py3.8.egg-info
+[1.025s] running install_scripts
+[1.043s] Installing move2goal_node script to /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/usi_angry_turtle
+[1.044s] writing list of installed files to '/home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/install.log'
+[1.069s] Invoked command in '/home/usi/dev_ws/src/usi_angry_turtle' returned '0': PYTHONPATH=/home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/usi_angry_turtle build --build-base /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/build install --prefix /home/usi/dev_ws/src/usi_angry_turtle/install/usi_angry_turtle --record /home/usi/dev_ws/src/usi_angry_turtle/build/usi_angry_turtle/install.log --single-version-externally-managed
